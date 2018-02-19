@@ -1,0 +1,4 @@
+com\emre\models\Items.class
+com\emre\models\Attributes.class
+com\emre\controllers\WallmartAppController.class
+com\emre\models\MyPojo.class
